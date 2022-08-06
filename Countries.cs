@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 #pullrequest
-namespace it
+namespace 1
 {
     internal static partial class Countries
     {
